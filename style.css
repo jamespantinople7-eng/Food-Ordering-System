@@ -317,8 +317,8 @@ a {
 }
 
 .hero-emoji {
-    font-size: 190px;
-
+    font-size: 300px;
+    margin-bottom: 50px;
     animation:
         floating
         3s
